@@ -1,0 +1,30 @@
+.modal_two{
+    display: none;
+}
+.modal{
+    
+    .modal_absolute{
+    position: absolute;
+    width: 97vw;
+    height: 100vh;
+background-color: rgba(0, 0, 0, 0.5);
+z-index: 1000;
+iframe.absolute {
+ 
+    margin: 0 auto;
+}
+.modal_x{
+    cursor: pointer;
+    padding: 10px 25px;
+    margin: 10px 0;
+    display: flex;
+    position: absolute;
+    z-index: 50;
+    /* width: 100vw; */
+    /* height: 100vw; */
+    color: white;
+    width: inherit;
+    justify-content: end;
+}
+}
+}
